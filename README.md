@@ -1,4 +1,4 @@
-# Alexandre Gluck – Data Analytics & Business Projects
+# Alexandre Gluck – Internship Work & Projects
 
 This repository contains a collection of projects and internship work completed during my Master's in Business Analytics & AI at Johns Hopkins University and my professional experience.
 
